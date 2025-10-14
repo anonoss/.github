@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img src="../images/anonlogo.jpeg" width="90" alt="Anon Dev Lab Logo"/>
-
-# **ANON DEV LAB**
+## **Welcome TO Anon Dev Lab**
 ### _Innovating • Building • Securing_
 
 ---
